@@ -1,21 +1,27 @@
 # Site Info
 title: Michalis Stavridis
-description: Data Analyst & Engineer Portfolio
-email: m_stavridis@yahoo.com  # <-- Replace with your real email
-
+description: Portfolio of a Site Manager & Data Analyst bridging Industrial Operations with Modern Analytics and Automation
+email: m_stavridis@yahoo.com  # Using your actual email from CV
 # GitHub Pages Theme
 remote_theme: murraco/jekyll-theme-minimal-resume
-
 # Personal Details
 username: Michalis Stavridis
-user_title: Data & Project Professional
+user_title: Site Manager & Data Scientist | Industrial Operations × Modern Analytics
 user_description: >
-  Data Analyst and Operations Manager in the renewable energy sector. 
-  Focused on driving efficiency through data-driven decision making.
-
+  By day, I optimize industrial processes and lead quality improvements at major renewable 
+  projects. By night, I explore the intersection of engineering and analytics.
+  
+  Currently fascinated by how traditional industries can leverage modern data science - 
+  from predictive maintenance and quality optimization to IoT applications in manufacturing. 
+  My repositories showcase projects spanning industry related analysis and explorations in renewable energy data.
+  
+  Academic background: MSc Data Science (Bioinformatics) + BSc Materials Science Engineering
+  Professional: Lean Six Sigma Black Belt, Quality Systems, Industrial Operations
+  
+  Always learning. Open to collaborations on projects that bridge 
+  engineering fundamentals with cutting-edge analytics.
 # Social Links (only usernames/handles)
 linkedin_username: michalis-stavridis-52ba75109
 github_username: michstavridis
-
 # Optional exclusions
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
