@@ -8,15 +8,10 @@ remote_theme: murraco/jekyll-theme-minimal-resume
 username: Michalis Stavridis
 user_title: Operations Manager & Data Analyst 
 user_description: >
-  By day, I optimize industrial processes and lead quality improvements at major renewable 
-  projects. By night, I explore the intersection of engineering and analytics.
-  
-  Currently fascinated by how traditional industries can leverage modern data science - 
-  from predictive maintenance to quality optimization. 
-  My repositories showcase projects spanning industry related analysis and explorations in renewable energy data.
-  
-  Always learning. Open to collaborations on projects that bridge 
-  engineering fundamentals with cutting-edge analytics.
+  By day, I improve industrial processes and lead quality improvements at renewable projects. By night, I look into the connection between engineering and analytics.
+
+  I am currently interested in how data science can affect other areas, such as maintenance forecasts and quality improvement. My GitHub features projects that include targeted case studies in industrial and renewable energy data.
+
 # Social Links (only usernames/handles)
 linkedin_username: michalis-stavridis-52ba75109
 github_username: michstavridis
